@@ -1,7 +1,7 @@
 {
-    "name": "rest-koa",
+    "name": "node_example",
     "version": "1.0.0",
-    "description": "koa 2 example with rest api",
+    "description": "Node example",
     "main": "app.js",
     "scripts": {
         "start": "node --use_strict app.js"
@@ -11,11 +11,11 @@
         "rest",
         "api"
     ],
-    "author": "Michael Liao",
+    "author": "Alex Song",
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/michaelliao/learn-javascript.git"
+        "url": "https://github.com/Stranger469/NodeDemo.git"
     },
     "dependencies": {
         "koa": "2.0.0",
