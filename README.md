@@ -1,6 +1,5 @@
 # Node demo
-用于学习Node的基础操作和koa框架
-以廖雪峰的[Node.js教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434501245426ad4b91f2b880464ba876a8e3043fc8ef000)为基础
+用于学习Node的基础操作和koa框架，以廖雪峰的[Node.js教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434501245426ad4b91f2b880464ba876a8e3043fc8ef000)为基础，也参考了阮一峰老师的[Koa框架教程](http://www.ruanyifeng.com/blog/2017/08/koa.html)。
 
 #### 目录结构
 
